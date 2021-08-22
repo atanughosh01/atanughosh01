@@ -1,2 +1,1 @@
-# README.md
-Profile repo
+Hi there 👋
