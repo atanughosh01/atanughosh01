@@ -1,7 +1,7 @@
 <samp>
  
 ![](https://komarev.com/ghpvc/?username=atanughosh01)
-# Hi there, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px">
+# Hi there, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="25px">
 ## I'm Atanu Ghosh
 ## Connect with me
 <div align="center">
